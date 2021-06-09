@@ -19,7 +19,7 @@ const Fun = (val) => {
     <Card.Body style={{padding:10}}>
       <Card.Title className="title" style={{fontSize: 18,fontFamily:'sans', fontWeight: 'bold'}}>{val.name}</Card.Title>
       {/* <Card.Text> */}
-      <div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.0081%;"><iframe src={val.src} style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div>
+     <iframe height="200" width="200" src={val.src} allowfullscreen></iframe>
       {/* </Card.Text> */}
       {/* <Button className="btn">Go somewhere</Button> */}
       <Button variant="outlined" href={val.link} style={{marginLeft: 45, height: 30}} className="btn">
