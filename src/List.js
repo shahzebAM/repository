@@ -1,8 +1,8 @@
 import React from "react";
 const List = [{
     name: "Episode 60",
-    src: "https://www.youtube.com/embed/VmEU22NYkEs",
-    link: "Download link"
+    src: "//ok.ru/videoembed/2313365359230",
+    link: "https://videodownloaderanysite.com/dl.php?source=ok.ru&dl=MA=="
 },
 
 {
