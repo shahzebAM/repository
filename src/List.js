@@ -32,13 +32,18 @@ const List = [{
     src: "https://www.youtube.com/embed/VmEU22NYkEs",
     link: "Download link",
 },
-              {
+{
     name: "Episode 67",
     src: "https://www.youtube.com/embed/VmEU22NYkEs",
     link: "Download link",
 },
-              {
+{
     name: "Episode 67",
+    src: "https://www.youtube.com/embed/VmEU22NYkEs",
+    link: "Download link",
+},
+{
+    name: "Episode 69",
     src: "https://www.youtube.com/embed/VmEU22NYkEs",
     link: "Download link",
 },
