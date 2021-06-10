@@ -43,7 +43,7 @@ const Fun = (val) => {
 function App() {
   return (
     <>
-      <Navbar className="nav" fixed="top" expand="lg" variant="light" bg="light">
+      <Navbar className="nav" fixed="top" expand="lg" >
   <Container>
     <Navbar.Brand href="#" >Kurulus Osman</Navbar.Brand>
   </Container>
