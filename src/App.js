@@ -17,7 +17,7 @@ const Fun = (val) => {
     <Card style={{ width: '18rem' }}>
     {/* <Card.Img variant="top" src="holder.js/100px180" /> */}
     <Card.Body style={{padding:10}}>
-      <Card.Title className="title" style={{fontSize: 18,fontFamily:'sans', fontWeight: 'bold'}}>{val.name}</Card.Title>
+      <Card.Title className="title" style={{fontSize: 18,fontFamily:'sans',backgroundColor:"#ecf0f1", fontWeight: 'bold'}}>{val.name}</Card.Title>
       {/* <Card.Text> */}
      <iframe width="200" height="150" src={val.src} frameborder="0" allow="autoplay" allowfullscreen="true"></iframe>
       {/* </Card.Text> */}
