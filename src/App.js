@@ -12,8 +12,10 @@ const Fun = (val) => {
     <>
 
 
-<div className="css">
-
+// <div className="css">
+<Container>
+    <Row>
+    <Col lg = {4} md = {4} sm = {12}>
     <Card style={{ width: '18rem',backgroundColor:"#ecf0f1",border:"none" }}>
     {/* <Card.Img variant="top" src="holder.js/100px180" /> */}
     <Card.Body style={{padding:10}}>
@@ -27,7 +29,13 @@ const Fun = (val) => {
 </Button>
     </Card.Body>
   </Card>
-</div>
+
+</Col>
+
+</Row>
+
+</Container>
+// </div>
    
 
 
