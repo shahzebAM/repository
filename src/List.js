@@ -82,12 +82,43 @@ const KU_S3 = [{
 
 }]
 
-const ER_S1 = [{
+const ER_S1 = [
+    {
     name: "Episode 01",
     src : "https://www.dailymotion.com/embed/video/x6k7r3e?autoplay=1",
     link: "#"
 
-}]
+},
+    
+        {
+    name: "Episode 02",
+    src : "https://www.dailymotion.com/embed/video/x6kb34w?autoplay=1",
+    link: "#"
+
+},
+    
+            {
+    name: "Episode 03",
+    src : "https://www.dailymotion.com/embed/video/x6kb34x?autoplay=1",
+    link: "#"
+
+},
+    
+                {
+    name: "Episode 04",
+    src : "https://www.dailymotion.com/embed/video/x6kb34y?autoplay=1",
+    link: "#"
+
+},
+    
+                    {
+    name: "Episode 05",
+    src : "https://www.dailymotion.com/embed/video/x71osq0?autoplay=1",
+    link: "#"
+
+},
+    
+]
 
 const ER_S2 = [{
     name: "Episode 60",
