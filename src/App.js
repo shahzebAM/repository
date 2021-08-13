@@ -233,7 +233,7 @@ function App() {
 {List.map(Fun)}
 <h4 id="ku_s1" style = {{marginTop: 60,marginBottom: 0, textAlign: 'center'}}>Kurulus Osman Season 1</h4>
 {KU_S1.map(Fun1)}
-<h4 id="er_s1" style = {{marginTop: 60,marginBottom: 0, textAlign: 'center'}}>Ertugrul Ghazi Season 1</h4>
+<h4 id="er_s1" style = {{marginTop: 60,marginBottom: 0, textAlign: 'center'}}>Ertugrul Ghazi Season 1 (password: giveme5.co)</h4>
 {ER_S1.map(Fun2)}
 <h4 id="er_s2" style = {{marginTop: 60,marginBottom: 0, textAlign: 'center'}}>Ertugrul Ghazi Season 2</h4>
 {ER_S2.map(Fun3)}
