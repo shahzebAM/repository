@@ -84,7 +84,8 @@ const KU_S3 = [{
 
 const ER_S1 = [{
     name: "Episode 01",
-    src : "https://www.dailymotion.com/embed/video/x6k7r3e?autoplay=1",
+    src : "https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FErtugrulUrdu%2Fvideos%2F609356572992759%2F&show_text=false&width=560&t=0",
+
     link: "#"
 
 }]
