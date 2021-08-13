@@ -71,7 +71,11 @@ const Fun2 = (val) => {
     <Card.Body style={{padding:10}}>
       <Card.Title className="title" style={{fontSize: 18,fontFamily:'sans', fontWeight: 'bold'}}>{val.name}</Card.Title>
       {/* <Card.Text> */}
-     <iframe width="200" height="150" src={val.src} frameborder="0" allow="autoplay" allowfullscreen="true"></iframe>
+//      <iframe width="200" height="150" src={val.src} frameborder="0" allow="autoplay" allowfullscreen="true"></iframe>
+
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"> <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden" frameborder="0" type="text/html" src={val.src} width="100%" height="100%" allowfullscreen allow="autoplay"> </iframe> </div>
+
+
       {/* </Card.Text> */}
       {/* <Button className="btn">Go somewhere</Button> */}
       <Button variant="outlined" href={val.link} style={{marginLeft: 45, height: 30}} className="btn">
