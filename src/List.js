@@ -68,4 +68,53 @@ const List = [
 
 ]
 
-export default List;
+const KU_S1 = [{
+    name: "Episode 60",
+    src: "https://www.youtube.com/embed/VmEU22NYkEs",
+    link: "Download link"
+
+}]
+
+const KU_S3 = [{
+    name: "Episode 60",
+    src: "https://www.youtube.com/embed/VmEU22NYkEs",
+    link: "Download link"
+
+}]
+
+const ER_S1 = [{
+    name: "Episode 60",
+    src: "https://www.youtube.com/embed/VmEU22NYkEs",
+    link: "Download link"
+
+}]
+
+const ER_S2 = [{
+    name: "Episode 60",
+    src: "https://www.youtube.com/embed/VmEU22NYkEs",
+    link: "Download link"
+
+}]
+
+const ER_S3 = [{
+    name: "Episode 60",
+    src: "https://www.youtube.com/embed/VmEU22NYkEs",
+    link: "Download link"
+
+}]
+
+const ER_S4 = [{
+    name: "Episode 60",
+    src: "https://www.youtube.com/embed/VmEU22NYkEs",
+    link: "Download link"
+
+}]
+
+const ER_S5 = [{
+    name: "Episode 60",
+    src: "https://www.youtube.com/embed/VmEU22NYkEs",
+    link: "Download link"
+
+}]
+
+export  {List,KU_S1,KU_S3,ER_S1,ER_S2,ER_S3,ER_S4,ER_S5};
