@@ -1,21 +1,113 @@
-.nav{
-  background-color: #bdc3c7;
-  position: sticky;
-  
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap'); */
+
+/* @import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap'); */
+
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@600&display=swap');
+
+.drp1{
+    /* font-family: 'Ubuntu', sans-serif; */
+    font-family: 'Source Code Pro', monospace;
+    /* font-weight: bolder; */
+    
+
 }
 
-.css{
-  display: inline-block;
-  flex-direction: row;
-  margin-left: 20px;
-  width: 200px;
-  margin-top: 40px;
-  
 
+
+
+.nav{
+    background-color: #bdc3c7;
+    position: sticky;
+
+    
+}
+
+html {
+    scroll-behavior: smooth;
+  }
+
+.css{
+    display: inline-block;
+    flex-direction: row;
+    margin-left: 20px;
+    width: 200px;
+    margin-top: 20px;
+    
+    
+
+   
+}
+
+.css1{
+    display: inline-block;
+    flex-direction: row;
+    margin-left: 20px;
+    width: 200px;
+    margin-top: 30px;
+    
+    
+
+   
+}
+
+.Head{
+    margin-top: 120px; 
  
 }
 
-.title{
-  margin-left: 55px;
-  
+
+h4{
+    font-family: 'Times New Roman', Times, serif;
 }
+
+.title{
+    margin-left: 55px;
+    
+}
+
+@media screen and (max-width: 440px) {
+    #iframe{
+        width: 300px;
+        height: 200px;
+    }
+   
+    
+  }
+
+  @media  screen and (max-width: 390px) {
+    .drp1{
+        font-family: sans-serif;
+        font-weight: bolder;
+        font-size: 5px;
+        margin-left: 0;
+        margin-right: 0;
+        padding-bottom: 0;
+    }
+   
+    
+  }
+
+  @media screen and (max-width: 320px) {
+    .drp1{
+        font-family: sans-serif;
+        font-weight: bolder;
+        font-size: 4px;
+        margin-left: 0px;
+        margin-right: 0px;
+        margin-bottom: 5px;
+        padding-bottom: 0px;
+    }
+
+    .Head{
+        margin-top: 200px;
+    }
+    
+
+
+   
+    
+  }
+
+
+
