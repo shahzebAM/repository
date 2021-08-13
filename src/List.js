@@ -84,7 +84,7 @@ const KU_S3 = [{
 
 const ER_S1 = [{
     name: "Episode 01",
-    src : "https://www.youtube.com/embed/VmEU22NYkEs"  
+    src : "https://www.youtube.com/embed/VmEU22NYkEs",
     link: "#"
 
 }]
