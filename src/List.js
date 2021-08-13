@@ -71,49 +71,49 @@ const List = [
 const KU_S1 = [{
     name: "Episode 60",
     src: "https://www.youtube.com/embed/VmEU22NYkEs",
-    link: "Download link"
+    link: "#"
 
 }]
 
 const KU_S3 = [{
     name: "Episode 60",
     src: "https://www.youtube.com/embed/VmEU22NYkEs",
-    link: "Download link"
+    link: "#"
 
 }]
 
 const ER_S1 = [{
     name: "Episode 01",
     src : "https://www.youtube.com/embed/VmEU22NYkEs"  
-    link: "Download link"
+    link: "#"
 
 }]
 
 const ER_S2 = [{
     name: "Episode 60",
     src: "https://www.youtube.com/embed/VmEU22NYkEs",
-    link: "Download link"
+    link: "#"
 
 }]
 
 const ER_S3 = [{
     name: "Episode 60",
     src: "https://www.youtube.com/embed/VmEU22NYkEs",
-    link: "Download link"
+    link: "#"
 
 }]
 
 const ER_S4 = [{
     name: "Episode 60",
     src: "https://www.youtube.com/embed/VmEU22NYkEs",
-    link: "Download link"
+    link: "#"
 
 }]
 
 const ER_S5 = [{
     name: "Episode 60",
     src: "https://www.youtube.com/embed/VmEU22NYkEs",
-    link: "Download link"
+    link: "#"
 
 }]
 
