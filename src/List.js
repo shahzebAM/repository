@@ -85,7 +85,7 @@ const KU_S3 = [{
 const ER_S1 = [
     {
     name: "Episode 01",
-    src : "https://www.dailymotion.com/embed/video/x6k7r3e?autoplay=1",
+    src : "//ok.ru/videoembed/2154058615475",
     link: "#"
 
 },
