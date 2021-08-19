@@ -92,7 +92,7 @@ const ER_S1 = [
     
         {
     name: "Episode 02",
-    src : "//ok.ru/videoembed/2154059926195",
+    src : "//ok.ru/videoembed/2780908882488",
     link: "#"
 
 },
@@ -113,7 +113,48 @@ const ER_S1 = [
     
                     {
     name: "Episode 05",
-    src : "//ok.ru/videoembed/2503275973323",
+    src : "//ok.ru/videoembed/2346104523387",
+    link: "#"
+
+},
+                        {
+    name: "Episode 06",
+    src : "//ok.ru/videoembed/2154059532979",
+    link: "#"
+
+},
+    
+                            {
+    name: "Episode 07",
+    src : "//ok.ru/videoembed/2346104261243",
+    link: "#"
+
+},
+    
+                                {
+    name: "Episode 08",
+    src : "//ok.ru/videoembed/2349121211003",
+    link: "#"
+
+},
+    
+                                {
+    name: "Episode 09",
+    src : "//ok.ru/videoembed/2349121276539",
+    link: "#"
+
+},
+    
+                                {
+    name: "Episode 10",
+    src : "//ok.ru/videoembed/2346104457851",
+    link: "#"
+
+},
+    
+                                {
+    name: "Episode 11",
+    src : "//ok.ru/videoembed/2349125208699",
     link: "#"
 
 },
