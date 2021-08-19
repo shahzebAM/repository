@@ -230,7 +230,7 @@ function App() {
 </Navbar>
 
  
-<h4> className="Head" id="ku_s2" style={{textAlign: 'center'}}>Kurulus Osman Season 2</h4>
+<h4 id="ku_s2" className="Head"  style={{textAlign: 'center'}}>Kurulus Osman Season 2</h4>
 
 {List.map(Fun)}
 
