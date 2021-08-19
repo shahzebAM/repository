@@ -230,13 +230,13 @@ function App() {
 </Navbar>
 <div id="ku_s2">
  
-<h4 className="Head" style={{textAlign: 'center'}}>Kurulus Osman Season 2</h4>
+<p> className="Head" style={{textAlign: 'center'}}>Kurulus Osman Season 2</p>
 
 {List.map(Fun)}
 </div>
 <h4 id="ku_s1" style = {{marginTop: 60,marginBottom: 0, textAlign: 'center'}}>Kurulus Osman Season 1</h4>
 {KU_S1.map(Fun1)}
-<h4 id="er_s1" style = {{marginTop: 60,marginBottom: 0, textAlign: 'center'}}>Ertugrul Ghazi Season 1 (password: giveme5.co)</h4>
+<h4 id="er_s1" style = {{marginTop: 60,marginBottom: 0, textAlign: 'center'}}>Ertugrul Ghazi Season 1</h4>
 {ER_S1.map(Fun2)}
 <h4 id="er_s2" style = {{marginTop: 60,marginBottom: 0, textAlign: 'center'}}>Ertugrul Ghazi Season 2</h4>
 {ER_S2.map(Fun3)}
