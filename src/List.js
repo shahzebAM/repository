@@ -92,14 +92,14 @@ const ER_S1 = [
     
         {
     name: "Episode 02",
-    src : "//ok.ru/videoembed/2154059926195",
+    src : "//ok.ru/videoembed/2780908882488",
     link: "#"
 
 },
     
             {
     name: "Episode 03",
-    src : "//ok.ru/videoembed/2154059795123",
+    src : "//ok.ru/videoembed/2780908751416",
     link: "#"
 
 },
