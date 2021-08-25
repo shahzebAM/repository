@@ -583,6 +583,34 @@ const ER_S1 = [
     link: "#"
 
 },
+    
+            {
+    name: "Episode 72",
+    src : "//ok.ru/videoembed/2346107275899",
+    link: "#"
+
+},
+    
+            {
+    name: "Episode 73",
+    src : "//ok.ru/videoembed/2346106751611",
+    link: "#"
+
+},
+    
+            {
+    name: "Episode 74",
+    src : "//ok.ru/videoembed/2346105899643",
+    link: "#"
+
+},
+    
+            {
+    name: "Episode 75",
+    src : "//ok.ru/videoembed/2346105637499",
+    link: "#"
+
+},
 
     
     
