@@ -187,6 +187,28 @@ const Fun6 = (val) => {
   </Card>
 
 </div>
+
+const Fun7 = (val) => {
+  return(
+    <>
+
+
+<div className="css1" >
+    <Card style={{ width: '18rem',backgroundColor:"#ecf0f1",border:"none" }}>
+    {/* <Card.Img variant="top" src="holder.js/100px180" /> */}
+    <Card.Body style={{padding:10}}>
+      <Card.Title className="title" style={{fontSize: 18,fontFamily:'sans', fontWeight: 'bold'}}>{val.name}</Card.Title>
+      {/* <Card.Text> */}
+     <iframe width="200" height="150" src={val.src} frameborder="0" allow="autoplay" allowfullscreen="true"></iframe>
+      {/* </Card.Text> */}
+      {/* <Button className="btn">Go somewhere</Button> */}
+      <Button variant="outlined" href={val.link} style={{marginLeft: 45, height: 30}} className="btn">
+  Download
+</Button>
+    </Card.Body>
+  </Card>
+
+</div>
     </>
   )
 
@@ -230,9 +252,10 @@ function App() {
 
 </Navbar>
 
- 
-<h4 id="ku_s2" className="Head"  style={{textAlign: 'center'}}>Kurulus Osman Season 2</h4>
+<h4 id="ku_s3" style = {{marginTop: 60,marginBottom: 0, textAlign: 'center'}}>Kurulus Osman Season 1</h4>
+{KU_S3.map(Fun1)} 
 
+<h4 id="ku_s2" className="Head"  style={{textAlign: 'center'}}>Kurulus Osman Season 2</h4>
 {List.map(Fun)}
 
 <h4 id="ku_s1" style = {{marginTop: 60,marginBottom: 0, textAlign: 'center'}}>Kurulus Osman Season 1</h4>
