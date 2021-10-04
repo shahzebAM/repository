@@ -188,6 +188,12 @@ const Fun6 = (val) => {
 
 </div>
 
+
+    </>
+  )
+
+}
+
 const Fun7 = (val) => {
   return(
     <>
@@ -209,12 +215,12 @@ const Fun7 = (val) => {
   </Card>
 
 </div>
+
+
     </>
   )
 
 }
-
-
 
 function App() {
   return (
