@@ -223,6 +223,7 @@ function App() {
   <Dropdown.Menu>
     <Dropdown.Item href="#ku_s1">Season 1</Dropdown.Item>
     <Dropdown.Item href="#ku_s2">Season 2</Dropdown.Item>
+    <Dropdown.Item href="#ku_s3">Season 2</Dropdown.Item>
   </Dropdown.Menu>
 </Dropdown>
 
