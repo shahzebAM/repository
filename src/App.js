@@ -252,8 +252,8 @@ function App() {
 
 </Navbar>
 
-<h4 id="ku_s3" style = {{marginTop: 60,marginBottom: 0, textAlign: 'center'}}>Kurulus Osman Season 1</h4>
-{KU_S3.map(Fun1)} 
+<h4 id="ku_s3" style = {{marginTop: 60,marginBottom: 0, textAlign: 'center'}}>Kurulus Osman Season 3</h4>
+{KU_S3.map(Fun7)} 
 
 <h4 id="ku_s2" className="Head"  style={{textAlign: 'center'}}>Kurulus Osman Season 2</h4>
 {List.map(Fun)}
