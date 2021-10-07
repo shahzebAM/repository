@@ -75,12 +75,20 @@ const KU_S1 = [{
 
 }]
 
-const KU_S3 = [{
-    name: "Episode 65",
+const KU_S3 = [
+{
+    name: "Episode 65 P1",
     src: "//ok.ru/videoembed/4626004707911",
     link: "#"
 
-}]
+},
+{
+    name: "Episode 65 P2",
+    src: "//ok.ru/videoembed/4626038262343",
+    link: "#"
+
+}
+]
 
 const ER_S1 = [
     {
