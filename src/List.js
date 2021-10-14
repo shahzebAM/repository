@@ -95,7 +95,7 @@ const KU_S3 = [
     src: "//ok.ru/videoembed/3638847670813",
     link: "#"
 
-}
+},
 
 
 {
