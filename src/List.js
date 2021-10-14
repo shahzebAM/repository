@@ -87,7 +87,24 @@ const KU_S3 = [
     src: "//ok.ru/videoembed/3622715329053",
     link: "https://ok6-1.vkuser.net/?expires=1634123416543&srcIp=39.51.228.89&srcAg=CHROME&ms=95.142.206.128&type=3&sig=uFrY4Z8mF-w&ct=0&urls=45.136.21.69%3B45.136.22.49&clientType=1&zs=43&id=1618767907357"
 
+},
+
+
+{
+    name: "Episode 66 P1",
+    src: "//ok.ru/videoembed/3638847670813",
+    link: "#"
+
 }
+
+
+{
+    name: "Episode 66 P2",
+    src: "//ok.ru/videoembed/3638966356509",
+    link: "#"
+
+}
+
 ]
 
 const ER_S1 = [
