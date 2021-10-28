@@ -76,6 +76,18 @@ const KU_S1 = [{
 }]
 
 const KU_S3 = [
+    
+{
+    name: "Episode 68 P1",
+    src: "//ok.ru/videoembed/3694194002461",
+    link: "https://ok6-10.vkuser.net/?expires=1635511624446&srcIp=203.135.17.168&srcAg=CHROME&ms=95.142.206.137&type=3&sig=N-dOtEtLpy0&ct=0&urls=45.136.21.69%3B45.136.22.41&clientType=1&zs=43&id=1694582639133"
+},
+    
+{
+    name: "Episode 68 P2",
+    src: "//ok.ru/videoembed/3695555381789",
+    link: "https://ok6-10.vkuser.net/?expires=1635511783160&srcIp=203.135.17.168&srcAg=CHROME&ms=95.142.206.137&type=3&sig=1XixFBY7DL0&ct=0&urls=45.136.21.69%3B45.136.22.41&clientType=1&zs=43&id=1694582639133"
+},    
 
 {
     name: "Episode 67 P1",
