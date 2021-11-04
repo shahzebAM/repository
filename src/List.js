@@ -1,6 +1,13 @@
 import React from "react";
 const List = [
-    
+  
+{
+   
+    name: "Episode 65 P1",
+    src: "//ok.ru/videoembed/3721383774749",
+    link: "https://ok6-15.vkuser.net/?expires=1624613145817&srcIp=39.52.152.178&srcAg=CHROME&ms=95.142.206.142&type=3&sig=I5sPWxS-J8k&ct=0&urls=185.226.53.42%3B45.136.22.73&clientType=1&zs=43&id=1314635909758"
+},    
+  
        {
    
     name: "Episode 64",
