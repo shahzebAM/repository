@@ -159,14 +159,14 @@ const KU_S3 = [
 
 {
     name: "Episode 65 P1",
-    src: "//ok.ru/videoembed/3622647564829",
+    src: "//ok.ru/videoembed/2790516591228",
     link: "https://ok6-1.vkuser.net/?expires=1634123234210&srcIp=39.51.228.89&srcAg=CHROME&ms=95.142.206.128&type=3&sig=4Mxtp7ML6e0&ct=0&urls=185.226.53.24%3B45.136.22.43&clientType=1&zs=43&id=1618706303517"
 
 },
 
 {
     name: "Episode 65 P2",
-    src: "//ok.ru/videoembed/3622715329053",
+    src: "//ok.ru/videoembed/2790649825916",
     link: "https://ok6-1.vkuser.net/?expires=1634123416543&srcIp=39.51.228.89&srcAg=CHROME&ms=95.142.206.128&type=3&sig=uFrY4Z8mF-w&ct=0&urls=45.136.21.69%3B45.136.22.49&clientType=1&zs=43&id=1618767907357"
 
 }
