@@ -117,26 +117,26 @@ const KU_S3 = [
     
 {
     name: "Episode 68 P1",
-    src: "//ok.ru/videoembed/3694194002461",
+    src: "//ok.ru/videoembed/2903453993723",
     link: "https://ok6-10.vkuser.net/?expires=1635511624446&srcIp=203.135.17.168&srcAg=CHROME&ms=95.142.206.137&type=3&sig=N-dOtEtLpy0&ct=0&urls=45.136.21.69%3B45.136.22.41&clientType=1&zs=43&id=1694582639133"
 },
     
 {
     name: "Episode 68 P2",
-    src: "//ok.ru/videoembed/3695555381789",
+    src: "//ok.ru/videoembed/2886525389436",
     link: "https://ok6-12.vkuser.net/?expires=1635512017085&srcIp=203.135.17.168&srcAg=CHROME&ms=95.142.206.139&type=3&sig=ro-kRtkwHIA&ct=0&urls=185.226.53.29%3B185.226.52.35&clientType=1&zs=43&id=1695875009053"
 },    
 
 {
     name: "Episode 67 P1",
-    src: "//ok.ru/videoembed/2648078551678",
+    src: "//ok.ru/videoembed/3401581136397",
     link: "https://ok6-8.vkuser.net/?expires=1634883376959&srcIp=39.52.253.103&srcAg=CHROME&ms=95.142.206.135&type=3&sig=VBsOFVEqFQI&ct=0&urls=45.136.22.47%3B45.136.21.30&clientType=1&zs=43&id=1637538269822"
 
 },
     
 {
     name: "Episode 67 P2",
-    src: "//ok.ru/videoembed/2648672569982",
+    src: "//ok.ru/videoembed/3403795466765",
     link: "https://ok6-5.vkuser.net/?expires=1634883545680&srcIp=39.52.253.103&srcAg=CHROME&ms=95.142.206.132&type=3&sig=z8Pbd6pqLmE&ct=0&urls=185.226.52.10%3B45.136.21.71&clientType=1&zs=43&id=1638069635710"
 
 },    
