@@ -142,17 +142,9 @@ const KU_S3 = [
 },    
     
 {
-    name: "Episode 66 P1",
-    src: "//ok.ru/videoembed/3638847670813",
+    name: "Episode 66",
+    src: "//ok.ru/videoembed/2853142334192",
     link: "https://ok6-14.vkuser.net/?expires=1634298373109&srcIp=39.51.228.89&srcAg=CHROME&ms=95.142.206.141&type=3&sig=LbycSBahOFY&ct=0&urls=185.226.53.33%3B45.136.22.17&clientType=1&zs=43&id=1637167270429"
-
-},
-
-
-{
-    name: "Episode 66 P2",
-    src: "//ok.ru/videoembed/3638966356509",
-    link: "https://ok6-1.vkuser.net/?expires=1634298412450&srcIp=39.51.228.89&srcAg=CHROME&ms=95.142.206.128&type=3&sig=wadm4n4fmAU&ct=0&urls=45.136.21.70%3B45.136.22.31&clientType=1&zs=43&id=1637268654621"
 
 },
 
