@@ -711,7 +711,7 @@ const ER_S1 = [
 
 const ER_S2 = [{
     name: "Episode 60",
-    src: "https://videos.files.wordpress.com/TFQgVJll/66-2-urdu.mp4",
+    src: "#",
     link: "#"
 
 }]
