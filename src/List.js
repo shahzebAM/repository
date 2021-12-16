@@ -80,6 +80,12 @@ const KU_S1 = [{
 
 const KU_S3 = [
 
+   {
+   
+    name: "Episode 75",
+    src: "//ok.ru/videoembed/3996665645597",
+    link: "https://ok6-14.vkuser.net/?expires=1639743717450&srcIp=203.135.47.120&pr=10&srcAg=CHROME&ms=95.142.206.141&type=3&sig=t-sv6k2i7To&ct=0&urls=45.136.22.38%3B185.226.52.58&clientType=1&zs=43&id=1892770122269"
+},
  
   {
    
