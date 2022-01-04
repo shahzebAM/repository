@@ -13,7 +13,7 @@ const Fun = (val) => {
     <>
 
 
-<div className="css">
+<div className="css1">
     <Card style={{ width: '18rem',backgroundColor:"#ecf0f1",border:"none" }}>
     {/* <Card.Img variant="top" src="holder.js/100px180" /> */}
     <Card.Body style={{padding:10}}>
