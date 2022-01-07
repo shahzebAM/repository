@@ -66,7 +66,6 @@ h4{
     
 }
 
-<<<<<<< HEAD
 .btn{
     background: radial-gradient(#eef, #eef);
     
@@ -94,43 +93,9 @@ h4{
     
   }
 
-  /* @media only screen and (max-width: 439px) {
-    iframe{
-        align-items: center;
-        width: 20%;
-        height: auto;
-        margin-left: 10px;
-=======
-@media screen and (max-width: 440px) {
-    #iframe{
-        width: 300px;
-        height: 200px;
->>>>>>> parent of ace9f4c (Update App.css)
-    }
-   
-    
-  } */
 
-  @media  screen and (max-width: 390px) {
-    .drp1{
-        font-family: sans-serif;
-<<<<<<< HEAD
-        font-weight: bolder;
-=======
-        
->>>>>>> parent of ace9f4c (Update App.css)
-        font-size: 15px;
-        margin-left: 0;
-        margin-right: 0;
-        padding-bottom: 0;
-    }
-      
-    .Head{
-        margin-top: 50px;
-    }
-   
-    
-  }
+
+
 
   @media screen and (max-width: 411px) {
     .Head{
