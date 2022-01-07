@@ -22,7 +22,7 @@ const Fun = (val) => {
      <iframe width="200" height="150" src={val.src} frameborder="0" allow="autoplay" allowfullscreen="true"></iframe>
       {/* </Card.Text> */}
       {/* <Button className="btn">Go somewhere</Button> */}
-      <Button variant="outlined" href={val.link} style={{marginLeft: 18rem, height: 30}} className="btn">
+      <Button variant="outlined" href={val.link} style={{marginLeft: '20rem', height: 30}} className="btn">
   Download
 </Button>
     </Card.Body>
@@ -48,7 +48,7 @@ const Fun1 = (val) => {
      <iframe width="200" height="150" src={val.src} frameborder="0" allow="autoplay" allowfullscreen="true"></iframe>
       {/* </Card.Text> */}
       {/* <Button className="btn">Go somewhere</Button> */}
-      <Button variant="outlined" href={val.link} style={{marginLeft: 18rem, height: 30}} className="btn">
+      <Button variant="outlined" href={val.link} style={{marginLeft: '20rem', height: 30}} className="btn">
   Download
 </Button>
     </Card.Body>
@@ -76,7 +76,7 @@ const Fun2 = (val) => {
 
       {/* </Card.Text> */}
       {/* <Button className="btn">Go somewhere</Button> */}
-      <Button variant="outlined" href={val.link} style={{marginLeft: 18rem, height: 30}} className="btn">
+      <Button variant="outlined" href={val.link} style={{marginLeft: '20rem', height: 30}} className="btn">
   Download
 </Button>
     </Card.Body>
@@ -102,7 +102,7 @@ const Fun3 = (val) => {
      <iframe width="200" height="150" src={val.src} frameborder="0" allow="autoplay" allowfullscreen="true"></iframe>
       {/* </Card.Text> */}
       {/* <Button className="btn">Go somewhere</Button> */}
-      <Button variant="outlined" href={val.link} style={{marginLeft: 18rem, height: 30}} className="btn">
+      <Button variant="outlined" href={val.link} style={{marginLeft: '20rem', height: 30}} className="btn">
   Download
 </Button>
     </Card.Body>
@@ -128,7 +128,7 @@ const Fun4 = (val) => {
      <iframe width="200" height="150" src={val.src} frameborder="0" allow="autoplay" allowfullscreen="true"></iframe>
       {/* </Card.Text> */}
       {/* <Button className="btn">Go somewhere</Button> */}
-      <Button variant="outlined" href={val.link} style={{marginLeft: 18rem, height: 30}} className="btn">
+      <Button variant="outlined" href={val.link} style={{marginLeft: '20rem', height: 30}} className="btn">
   Download
 </Button>
     </Card.Body>
@@ -154,7 +154,7 @@ const Fun5 = (val) => {
      <iframe width="200" height="150" src={val.src} frameborder="0" allow="autoplay" allowfullscreen="true"></iframe>
       {/* </Card.Text> */}
       {/* <Button className="btn">Go somewhere</Button> */}
-      <Button variant="outlined" href={val.link} style={{marginLeft: 18rem, height: 30}} className="btn">
+      <Button variant="outlined" href={val.link} style={{marginLeft: '20rem', height: 30}} className="btn">
   Download
 </Button>
     </Card.Body>
@@ -180,7 +180,7 @@ const Fun6 = (val) => {
      <iframe width="200" height="150" src={val.src} frameborder="0" allow="autoplay" allowfullscreen="true"></iframe>
       {/* </Card.Text> */}
       {/* <Button className="btn">Go somewhere</Button> */}
-      <Button variant="outlined" href={val.link} style={{marginLeft: 18rem, height: 30}} className="btn">
+      <Button variant="outlined" href={val.link} style={{marginLeft: '20rem', height: 30}} className="btn">
   Download
 </Button>
     </Card.Body>
@@ -208,7 +208,7 @@ const Fun7 = (val) => {
      <iframe width="200" height="150" src={val.src} frameborder="0" allow="autoplay" allowfullscreen="true"></iframe>
       {/* </Card.Text> */}
       {/* <Button className="btn">Go somewhere</Button> */}
-      <Button variant="outlined" href={val.link} style={{marginLeft: 20rem, height: 30}} className="btn">
+      <Button variant="outlined" href={val.link} style={{marginLeft: '20rem', height: 30}} className="btn">
   Download
 </Button>
     </Card.Body>
